@@ -1,4 +1,6 @@
 # Vote
+原生PHP实现简单投票系统，包含前后台
+
 执行 vote/DB.sql  里面的SQL命令
 
 
